@@ -1,0 +1,7 @@
+/Users/jackyng/Desktop/Learning/cp4i-financial-asset-esv10/cp4i-kstreams-tradeenrichment-svc/src/main/java/com/ibm/garage/cpat/infrastructure/MockCompanySectorProducer.java
+/Users/jackyng/Desktop/Learning/cp4i-financial-asset-esv10/cp4i-kstreams-tradeenrichment-svc/src/main/java/com/ibm/garage/cpat/domain/CompanySectors.java
+/Users/jackyng/Desktop/Learning/cp4i-financial-asset-esv10/cp4i-kstreams-tradeenrichment-svc/src/main/java/com/ibm/garage/cpat/domain/TradeEnrichmentTopology.java
+/Users/jackyng/Desktop/Learning/cp4i-financial-asset-esv10/cp4i-kstreams-tradeenrichment-svc/src/main/java/com/ibm/garage/cpat/domain/FinancialMessageDeserializer.java
+/Users/jackyng/Desktop/Learning/cp4i-financial-asset-esv10/cp4i-kstreams-tradeenrichment-svc/src/main/java/com/ibm/garage/cpat/domain/EnrichedMessage.java
+/Users/jackyng/Desktop/Learning/cp4i-financial-asset-esv10/cp4i-kstreams-tradeenrichment-svc/src/main/java/com/ibm/garage/cpat/domain/CompanySectorsDeserializer.java
+/Users/jackyng/Desktop/Learning/cp4i-financial-asset-esv10/cp4i-kstreams-tradeenrichment-svc/src/main/java/com/ibm/garage/cpat/domain/FinancialMessage.java
